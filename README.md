@@ -31,7 +31,7 @@ This entire project was created with the assistance of Amazon Q, AWS's AI coding
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Twishha-Soni/AmazonQ---Gesture---Snake---Game.git
+   git clone https://github.com/Twishha-Soni/Gesture-Snake-Game.git
    cd Gesture-Snake-Game
    ```
 
