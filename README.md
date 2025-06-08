@@ -31,7 +31,7 @@ This entire project was created with the assistance of Amazon Q, AWS's AI coding
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Gesture-Snake-Game.git
+   git clone https://github.com/Twishha-Soni/AmazonQ---Gesture---Snake---Game.git
    cd Gesture-Snake-Game
    ```
 
@@ -68,10 +68,6 @@ You can modify these variables in the code to adjust the game:
 ## 🌟 Created with Amazon Q
 
 This project was developed as part of the AWS Builders Challenge to showcase the capabilities of Amazon Q. The entire game was created by prompting Amazon Q with ideas and requirements, demonstrating how AI can help developers build complex applications with minimal manual coding.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
