@@ -2,7 +2,8 @@
 
 A modern take on the classic Snake game that uses computer vision and hand gestures to control the snake's movement.
 
-![Snake Game Demo](demo_screenshot)
+![image](https://github.com/user-attachments/assets/a6d96d13-27f3-42b7-a290-12a1c257da85)
+
 
 ## 🎮 Overview
 
